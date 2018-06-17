@@ -1,9 +1,9 @@
-# MSAN631 Computational Linear Algebra
+# Rest of MSAN631 Computational Linear Algebra
 Numerical Linear Algebra 2018 Summer - Chen
 
-## Rest of the course
+Rachel's Github: https://github.com/fastai/numerical-linear-algebra-v2
 
-### What to cover?
+## What to cover?
 
 - Some review/summary and QR factorization
 
@@ -15,11 +15,11 @@ Numerical Linear Algebra 2018 Summer - Chen
   
   More Compressed sensing
   
-### Other
+## Other
 
 - Book Recommendation: [Matrix Computations](https://www.amazon.com/Computations-Hopkins-Studies-Mathematical-Sciences/dp/1421407949/ref=sr_1_1?ie=UTF8&qid=1529198670&sr=8-1&keywords=matrix+computations)
 
-- Previous teachiing: https://github.com/Numerical-Analysis/course
+- Previous teaching: https://github.com/Numerical-Analysis/course
 
   **I would really appreciate if you can typos/mistakes on this document**
 https://github.com/Numerical-Analysis/course/blob/master/NumericalMethodsNotes.pdf
