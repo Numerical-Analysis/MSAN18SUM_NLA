@@ -31,7 +31,7 @@ https://github.com/Numerical-Analysis/course/blob/master/NumericalMethodsNotes.p
 
 - Important dates:
 
-  Hw3 (last one) is due 6/26 at 1:10 pm. 
+  [Hw3](nbs/hw3.ipynb) (last one) is due 6/26 at 1:10 pm. 
   
   Final Blog: due 6/28 midnight. Email me your blog link before the deadline.
   
