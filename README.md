@@ -22,7 +22,7 @@ Rachel's Github: https://github.com/fastai/numerical-linear-algebra-v2
 - Previous teaching: https://github.com/Numerical-Analysis/course
 
   **I would really appreciate if you find typos/mistakes on this document and let me know**
-https://github.com/Numerical-Analysis/course/blob/master/NumericalMethodsNotes.pdf
+https://github.com/Numerical-Analysis/MSAN18SUM_NLA/blob/master/NumericalMethodsNotes.pdf
 
 - Same grading weights. Slack Channel. 
 
